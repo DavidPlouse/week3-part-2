@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Administrator
+ * @author John Phillips
  */
 public class ChessUI {
 
